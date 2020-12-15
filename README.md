@@ -2,7 +2,7 @@
 
 ## Mini Algorithm Exercise
 
-"Criss Corss"
+"Criss Cross"
 
 _Language: Javascript_
 
