@@ -13,9 +13,11 @@ _Difficulty Rating: Easy_
  - Your function has an input that is a two dimensional array, containing three arrays with three numbers in each
 
  - for eg:
-    [[1,2,3], 
-    [4,5,6], 
-    [7,8,9]]
+    [
+        [1,2,3], 
+        [4,5,6], 
+        [7,8,9]
+    ]
 
 - Add together each kitty corner, i.e., 1 + 9 = 10 and 3 + 7 = 10
  - Return the difference 10 - 10 = 0
